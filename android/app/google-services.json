@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "191608500602",
+    "project_id": "phuongltd-firebase-auth",
+    "storage_bucket": "phuongltd-firebase-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191608500602:android:7ed6d44c48ac14c02fa6c3",
+        "android_client_info": {
+          "package_name": "com.example.firebase_auth_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9sGactTUaL5R2rNJ8YDvZ8knf7W3R370"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
