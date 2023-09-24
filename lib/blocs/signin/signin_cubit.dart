@@ -1,8 +1,8 @@
 import 'package:equatable/equatable.dart';
-import 'package:firebase_auth_app/repositories/auth_repository.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
 import '../../models/custom_error.dart';
+import '../../repositories/auth_repository.dart';
 
 part 'signin_state.dart';
 
